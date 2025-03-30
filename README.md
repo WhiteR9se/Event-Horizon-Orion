@@ -18,3 +18,9 @@ Team Members: Akshat Kumar, Karan Kumar
     We are developing data-efficient models requiring minimal labeled data
     and ensuring models generalize across different geographical regions and
     time periods    
+
+
+## Till Second Deadline:  
+    We have tinkered with the AI model given to us.
+    We have retrieved the model and tried it on one image. We will be doing this on multiple images and for multiple cases now.
+    
