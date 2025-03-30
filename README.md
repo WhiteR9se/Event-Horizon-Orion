@@ -60,6 +60,7 @@ While directly implementing fine-tuning of large geospatial foundation models (l
 *   **Asynchronous Operations:** `nest_asyncio`
 *   **Tunneling (for Development):** `pyngrok`
 *   **Data Source:** NASA EONET API v3
+*   **Google Collab Link** https://colab.research.google.com/drive/1fkEYZKwte75n2MP6oMWFfeu4V-dJL4fE?usp=sharing  
 
 ## Setup and Running
 
